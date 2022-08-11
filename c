@@ -1,99 +1,39 @@
 [
    {
       "id":"1",
-      "name":"Ullu",
-      "image":"https://i.ibb.co/7ykmSc2/Ullu.jpg",
-      "genre":"Ullu"
+      "name":"Bollywood",
+      "image":"https://previews.123rf.com/images/outchill/outchill1711/outchill171107108/89210246-bollywood-text-written-on-blue-lacey-border-round-vintage-textured-badge-stamp-.jpg",
+      "genre":"Bollywood"
    },
    {
       "id":"2",
-      "name":"Kooku",
-      "image":"https://i.ibb.co/ccT5Vb0/kooku-logo.jpg",
-      "genre":"Kooku"
+      "name":"Hollywood",
+      "image":"https://i.pinimg.com/236x/96/54/b2/9654b2e6481c75f6029a7d4a2c3d3f0b--hollywood-app-icon.jpg",
+      "genre":"Hollywood"
    },
    {
       "id":"3",
-      "name":"Hot MX",
-      "image":"https://i.ibb.co/W5pt2mS/Hot-Mx-mod-apk-download.jpg",
-      "genre":"HotMX"
+      "name":"South Indian",
+      "image":"https://image.winudf.com/v2/image1/Y29tLnNhcy5zb3V0aGluZGlhbm1vdmllcy5oaW5kaW1vdmllc19pY29uXzE1NjAzMjM1NDZfMDQ5/icon.png?w=170&fakeurl=1",
+      "genre":"South"
    },
    {
       "id":"4",
-      "name":"Rabbit Movies",
-      "image":"https://i.ibb.co/2h47sHf/rabbbit-movies.png",
-      "genre":"RabbitMovies"
+      "name":"Punjabi",
+      "image":"https://static10.tgstat.ru/channels/_0/a5/a588a9cd515afb8cbcf343bd7d3eb690.jpg",
+      "genre":"Punjabi"
    },
    {
       "id":"5",
-      "name":"Filmy Murga",
-      "image":"https://i.ibb.co/kx3CGJQ/filmymurga.jpg",
-      "genre":"FilmyMurga"
+      "name":"Adult",
+      "image":"https://previews.123rf.com/images/arcady31/arcady311604/arcady31160400024/55145293-under-18-rubber-stamp-adults-only.jpg",
+      "genre":"Adult"
    },
    {
       "id":"6",
-      "name":"Poonam Pandey",
-      "image":"https://i.ibb.co/YDJHccC/poonam-Pandey.jpg",
-      "genre":"Poonam Pandey"
-   },
-   {
-      "id":"7",
-      "name":"Sherlyn Chopra",
-      "image":"https://i.ibb.co/P9RqqWq/sherlyn.jpg",
-      "genre":"Sherlyn Chopra"
-   },
-   {
-      "id":"9",
-      "name":"DigimoviePlex",
-      "image":"https://i.ibb.co/bdvCybL/digimovieplex.jpg",
-      "genre":"DigimoviePlex"
-   },
-   {
-      "id":"10",
-      "name":"Prime Flix",
-      "image":"https://i.ibb.co/whpBH2x/prime-Flix.jpg",
-      "genre":"PrimeFlix"
-   },
-   {
-      "id":"11",
-      "name":"BoomMovies",
-      "image":"https://i.ibb.co/KbJqC04/boommovies.jpg",
-      "genre":"BoomMovies"
-   },
-   {
-      "id":"12",
-      "name":"PrimeShots",
-      "image":"https://i.ibb.co/RTpDX96/Prime-Shots.jpg",
-      "genre":"PrimeShots"
-   },
-   {
-      "id":"13",
-      "name":"HotMasti",
-      "image":"https://i.ibb.co/z2VrHXT/HotMasti.jpg",
-      "genre":"HotMasti"
-   },
-   {
-      "id":"14",
-      "name":"CinePrime",
-      "image":"https://i.ibb.co/dkPgN5n/cineprime.png",
-      "genre":"CinePrime"
-   },
-   {
-      "id":"15",
-      "name":"HalKut",
-      "image":"https://i.ibb.co/S79LBz1/halkut.jpg",
-      "genre":"HalKut"
-   },
-   {
-      "id":"16",
-      "name":"HottyNaughty",
-      "image":"https://i.ibb.co/RQZVnsH/hottnaughty.jpg",
-      "genre":"HottyNaughty"
-   },
-   {
-      "id":"17",
-      "name":"WOW",
-      "image":"https://i.ibb.co/zZrqX73/wow.jpg",
-      "genre":"WOW"
+      "name":"Hollywood English",
+      "image":"https://lh3.googleusercontent.com/5amoFz-MrprI2tB2J5rznGts55oW5L-spbF5C2ih8-l0AIIxBFfT6QtiE-3ggTTTEDfA",
+      "genre":"HollywoodEnglish"
    }
    
 ]
